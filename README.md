@@ -22,11 +22,11 @@ This is a responsive and theme-aware onboarding application built with React. It
 git clone https://github.com/manasvigoel24/Onboarding_Wizard
 cd onboarding-dashboard
 
-2. Install Dependencies
+### 2. Install Dependencies
 npm install
 
-3. Run the Development Server
-npm run dev
-Then open your browser and go to:
-http://localhost:5173
-You should see the app running.
+### 3. Run the Development Server
+npm run dev <br>
+-Then open your browser and go to:
+-http://localhost:5173
+-You should see the app running.
